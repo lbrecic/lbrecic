@@ -7,4 +7,4 @@ Hello all! I'm Luka Brečić, a Software Developer at Daytona.
 * 🔥 Passionate about programming languages, their theoretical background and how everything works under-the-hood.
 * 🚀 Drawn to Daytona's vision for improving developer workflows.
 * ⭐ Primarily works with Go, with a strong background in Java(+Spring FW), Javascript(+TS, React & Angular FWs), Python and C++.
-* 📮 Connect on [X @lbrecic](https://x.com/lbrecic) or [IG @brecic_luka](https://instagram.com/brecic_luka).
+* 📮 Connect on [X @lbrecic](https://x.com/lbrecic) or [LinkedIN @lukabrecic](https://www.linkedin.com/in/lukabrecic/).
